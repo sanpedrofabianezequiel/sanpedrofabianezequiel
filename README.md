@@ -1,52 +1,35 @@
-## Hide frames
-
-You can hide the frames around the trophies.  
-`Available value: boolean type (true or false)`  
-`Default: no-frame=false`
-
-```
-https://github-profile-trophy.vercel.app/?username=sanpedrofabianezequiel&no-frame=true
-```
-
 <p align="center">
-  <img width=660 src="https://user-images.githubusercontent.com/6661165/104810887-1d21c800-583b-11eb-8f0d-785c1640dc5d.png">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">Github Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+  </a>
+</p>
+<p align="center">
+  </a>
+    <a href="https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy"/> 
+  </a>
 </p>
 
 
-# Contribution Guide
 
-## Environment
+# Quick Start
 
-* Deno >= v1.9.2
-* [Vercel](https://vercel.com/)
-* GitHub API v4
-
-## Local Run
-
-Create `.env` file to project root directory, and write your GitHub token to the `.env` file.
-Please select the authority of `repo` when creating token.
+Add following code to your readme.  
+Change the `?username=` value to your GitHub's username.
 
 ```
-GITHUB_TOKEN=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-```
-
-Run local server.
-
-```
-deno run --allow-net --allow-read --allow-env debug.ts
-```
-
-Open localhost from your browser.
-
-
-## Editor config
-
-Read the [.editorconfig](./.editorconfig)
-
-## Run deno lint
-
-If you want to contribute to my project, you should check the lint with the following command.
-
-```
-deno lint --unstable
-```
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanpedrofabianezequiel)](https://github.com/ryo-ma/github-profile-trophy)
