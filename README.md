@@ -32,4 +32,4 @@ Add following code to your readme.
 Change the `?username=` value to your GitHub's username.
 
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanpedrofabianezequiel)](https://github.com/ryo-ma/github-profile-trophy)
