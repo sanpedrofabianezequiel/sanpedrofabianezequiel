@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a software developer with a passion for open-source projects. I specialize in building web applications using modern JavaScript frameworks like React and Node.js. I'm also experienced in database management using technologies like SQL and MongoDB.
+Hi there! I'm a software developer with a passion for open-source projects. I specialize in building web applications using modern JavaScript frameworks like React and Node.js. I'm also experienced in AWS services
 
 
 ## 🌐 Socials:
